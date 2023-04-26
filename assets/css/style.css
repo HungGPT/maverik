@@ -913,7 +913,7 @@ footer .footer-main .contact,
 .footer .contact .fa-container{
     position: relative;
     height: 130px;
-    background-image: url(/assets/img/fanpage_web.png);
+    background-image: url(fanpage_web.png);
     background-position: top;
 }
 .contact .fa-links .fa-links-items{
@@ -944,7 +944,7 @@ footer .footer-main .contact,
     height: 50px;
     width: 50px;
     border: 2px solid #fff;
-    background-image: url(/assets/img/fanpage_child.png);
+    background-image: url(fanpage_child.png);
     z-index: 99;
 }
 .contact .fa-boxchild{
@@ -1339,7 +1339,7 @@ footer .footer-main .contact,
         width: 95%;
         position: relative;
         height: 130px;
-        background-image: url(/assets/img/fanpage_web.png);
+        background-image: url(fanpage_web.png);
         background-position: top;
     }
     .fa-links{
@@ -1357,7 +1357,7 @@ footer .footer-main .contact,
         height: 50px;
         width: 50px;
         border: 2px solid #fff;
-        background-image: url(/assets/img/fanpage_child.png);
+        background-image: url(fanpage_child.png);
         z-index: 99;
     }
     .contact .fa-links .fa-links-items {
@@ -1693,7 +1693,7 @@ footer .footer-main .contact,
         width: 95%;
         position: relative;
         height: 130px;
-        background-image: url(/assets/img/fanpage_web.png);
+        background-image: url(fanpage_web.png);
         background-position: top;
     }
     .fa-links{
@@ -1711,7 +1711,7 @@ footer .footer-main .contact,
         height: 50px;
         width: 50px;
         border: 2px solid #fff;
-        background-image: url(/assets/img/fanpage_child.png);
+        background-image: url(fanpage_child.png);
         z-index: 99;
     }
     .contact .fa-links .fa-links-items {
